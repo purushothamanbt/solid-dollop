@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Purushothaman | Healthcare Operations</title>
+<style>
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Arial,Helvetica,sans-serif;color:#202b3c;background:#fff;line-height:1.65}
+:root{--navy:#203b5b;--blue:#5d82b6;--muted:#69778a;--line:#e5eaf0;--soft:#f5f8fc}
+.wrap{width:min(930px,calc(100% - 36px));margin:auto}
+header{border-bottom:1px solid var(--line)}nav{display:flex;justify-content:space-between;align-items:center;padding:22px 0}.name{font-size:17px;font-weight:700;letter-spacing:.03em;color:var(--navy)}nav a{font-size:14px;color:#5e6c7f;margin-left:22px}
+.hero{display:grid;grid-template-columns:1fr 220px;gap:45px;align-items:center;padding:62px 0 58px}
+.eyebrow{font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--blue);font-weight:700}
+h1{font-size:clamp(34px,5vw,52px);line-height:1.12;letter-spacing:-.04em;color:#1b2c42;margin:13px 0 18px}
+.intro{font-size:17px;color:#5c697c;max-width:620px;margin:0}
+.photo{width:190px;height:220px;border-radius:18px;background:#eaf0f7;border:1px solid #dce5ef;display:flex;align-items:center;justify-content:center;color:#56749b;font-size:52px;font-weight:700;overflow:hidden}
+.photo img{width:100%;height:100%;object-fit:cover}
+.contactline{margin-top:22px;font-size:14px;color:#53667e}.contactline a{color:var(--navy);font-weight:700;text-decoration:underline;text-underline-offset:3px}
+section{padding:34px 0;border-top:1px solid var(--line)}h2{font-size:22px;color:var(--navy);margin:0 0 18px;letter-spacing:-.02em}
+.about-text{max-width:780px;color:#5b687b;margin:0}
+.skills{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}.skill{background:var(--soft);border:1px solid #e8edf4;padding:6px 11px;border-radius:6px;font-size:13px;color:#42556e}
+.experience{display:grid;gap:22px}.entry{display:grid;grid-template-columns:175px 1fr;gap:24px}.date{font-size:13px;color:#758196}.company{font-size:15px;font-weight:700;color:#233b59}.role{font-weight:700;color:#253247;margin-bottom:6px}.entry ul{padding-left:18px;margin:5px 0;color:#5d697b;font-size:14px}.entry li{margin:4px 0}
+.achievements{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.achievement{padding:15px;background:#f7f9fc;border:1px solid #e8edf3;border-radius:10px}.achievement strong{display:block;color:var(--navy);font-size:20px}.achievement span{font-size:12px;color:#69778a}
+.education{display:grid;grid-template-columns:1fr 1fr;gap:14px}.edu{padding:15px;border:1px solid var(--line);border-radius:10px}.edu strong{display:block;color:#263b57}.edu span{font-size:13px;color:#69778a}
+footer{background:#f7f9fc;margin-top:8px;padding:24px 0;color:#718095;font-size:13px}.footer{display:flex;justify-content:space-between;gap:15px}
+@media(max-width:650px){nav{align-items:flex-start;gap:12px}nav a{margin-left:12px}.hero{grid-template-columns:1fr;gap:25px;padding:40px 0}.photo{width:145px;height:165px;grid-row:1}.entry{grid-template-columns:1fr;gap:5px}.achievements,.education{grid-template-columns:1fr}section{padding:28px 0}.footer{flex-direction:column}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><nav><div class="name">PURUSHOTHAMAN</div><div><a href="#experience">Experience</a><a href="#contact">Contact</a></div></nav></div></header>
+<main class="wrap">
+<div class="hero">
+<div><div class="eyebrow">Healthcare Revenue Cycle Management</div>
+<h1>Purushothaman</h1>
+<p class="intro">Healthcare operations professional with 5 years of experience in Revenue Cycle Management, AR follow-up, denial resolution and credit balance operations. Focused on accuracy, quality and compliant claim resolution.</p>
+<div class="contactline" id="contact">Chennai, India · <a href="mailto:purushothbt212@gmail.com">Email</a> · <a href="tel:9030967538">Phone</a></div>
+</div>
+<div class="photo" aria-label="Profile photo placeholder">P</div>
+</div>
+<section><h2>Profile</h2><p class="about-text">Experienced in managing denied and unpaid claims, credit balances and insurance overpayments. Known for maintaining accurate records, identifying denial trends and consistently meeting productivity expectations. Looking to apply this experience in a healthcare revenue cycle or insurance operations role.</p>
+<div class="skills"><span class="skill">Denial Management</span><span class="skill">Accounts Receivable</span><span class="skill">Revenue Cycle Management</span><span class="skill">Claim Processing</span><span class="skill">Re-billing</span><span class="skill">Credit Balance</span><span class="skill">Medical Billing</span><span class="skill">Excel</span><span class="skill">Allscripts</span><span class="skill">Imagine</span></div></section>
+<section id="experience"><h2>Experience</h2><div class="experience">
+<div class="entry"><div><div class="company">EXL Services</div><div class="date">May 2023 – Present</div></div><div><div class="role">Executive — Credit Balances & Overpayment Operations</div><ul><li>Manage credit balances and insurance overpayments in line with departmental policies.</li><li>Handle end-to-end AR follow-up for denied and unpaid claims.</li><li>Identify denial trends and report insights.</li><li>Maintained 100% record accuracy for 18 months.</li><li>Recognized as top performer in 6 of the last 9 months.</li></ul></div>
+<div class="entry"><div><div class="company">NTT DATA</div><div class="date">June 2021 – April 2023</div></div><div><div class="role">Senior Representative — Healthcare & Insurance Operations</div><ul><li>Managed receivables and denial resolution.</li><li>Worked across RCM and the claim lifecycle.</li><li>Contributed to reducing AR aging and improving cash flow.</li></ul></div>
+</div></section>
+<section><h2>Achievements</h2><div class="achievements"><div class="achievement"><strong>100%</strong><span>Record accuracy for 18 months</span></div><div class="achievement"><strong>6 of 9</strong><span>Months recognized as top performer</span></div><div class="achievement"><strong>3 awards</strong><span>Service, employee and impact recognition</span></div></div><p class="about-text" style="margin-top:14px;font-size:14px">Client Exceptional Service Award · Employee of the Month (2×) · Biggest Impact Award (May 2025)</p></section>
+<section><h2>Education</h2><div class="education"><div class="edu"><strong>MBA · 2024</strong><span>Sri Vidya Institute of Management, Puttur</span></div><div class="edu"><strong>B.Com · 2020</strong><span>Guru Nanak College of Arts and Science, Chennai</span></div></div></section>
+<section><h2>Languages</h2><p class="about-text">English · Tamil · Telugu</p></section>
+</main>
+<footer><div class="wrap footer"><span>Purushothaman · Healthcare Operations</span><span><a href="mailto:purushothbt212@gmail.com">purushothbt212@gmail.com</a></span></div></footer>
+</body></html>
